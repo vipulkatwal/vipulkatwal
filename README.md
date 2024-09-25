@@ -46,10 +46,6 @@
 
 <br>
 
-- Passionate pre-final year CSE student at VIT Bhopal, with a strong aptitude for analytical and logical thinking, and a love for problem-solving.
-- A Full Stack Developer proficient in various tools and programming languages, constantly engaged with emerging technologies to stay ahead of the curve.
-- A team player with excellent collaboration skills, seeking a challenging career opportunity that supports learning and personal and professional growth.
-- Active and engaged outside of work, with a love for staying fit through regular gym sessions and badminton, as well as enjoying TV shows and movies.
 - Check out my [**portfolio**](https://vipulkatwal.vercel.app/).
 
 <br>
