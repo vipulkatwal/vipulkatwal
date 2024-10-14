@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="150" "style=rounded">
-  <h1>Meow there! 😺 I'm Vipul Katwal</h1>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="150">
+  <h1>Howdy! 👋 I'm Vipul Katwal</h1>
   <h3>Full-Stack Purr-ogrammer | MERN & Beyond</h3>
 </div>
 
