@@ -1,71 +1,63 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100">
-  <br>
-  Hi there! I'm Vipul Katwal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200">
+  <h1>Meow there! 😺 I'm Vipul Katwal</h1>
+  <h3>Purr-ogrammer Extraordinaire | MERN Stack Ap-paw-entice</h3>
+</div>
 
 <p align="center">
-  <em>Coding my way through the MERN stack, one bug at a time! 🐛</em>
+  <a href="https://linkedin.com/in/vipulkatwal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://vipulkatwal.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white"/></a>
+  <a href="https://instagram.com/vipulkatwal"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:vipulkatwal17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vipulkatwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://vipulkatwal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://instagram.com/vipulkatwal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:vipulkatwal17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+stack+learner;Cricket+enthusiast;Chess+strategist;Mountain+lover+from+Himachal+Pradesh" alt="Typing SVG" />
 </div>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+---
+
+### 😺 About Me
+
+- 🏔️ Hailing from Himachal Pradesh, where the air is fresh and the bugs are rare!
+- 🏏 Cricket player extraordinaire (I can hit sixes... in my dreams)
+- ♟️ Chess master (My pawns always reach the other side... of my desk)
+- 💻 Diving into MERN stack (MongoDB ate my data, Express left me confused, React-ion time is slow, and Node-body understands me)
+
+### 🚀 Tech Stack
 
 <p align="center">
-  🏔️ Hailing from the beautiful Himachal Pradesh<br>
-  🏏 Cricket enthusiast (I can bat, bowl, and drop catches with equal proficiency!)<br>
-  ♟️ Chess player (My favorite opening? The "hope my opponent makes a mistake" gambit)<br>
-  💻 MERN stack learner (MongoDB ate my homework, Express left me confused, React-ed poorly, and Node-body understands me)
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-<h2 align="center">🚀 Tech Stack</h2>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9&bg_color=0d1117" alt="Vipul Katwal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFD93D&fire=FF6B6B&currStreakNum=FFD93D&sideNums=FF6B6B&currStreakLabel=FFD93D&sideLabels=FF6B6B&dates=c9d1d9" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipulkatwal&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+### 😹 Programming Humor
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  <h4>Visitor Count</h4>
+  <img src="https://profile-counter.glitch.me/vipulkatwal/count.svg" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=radical" alt="GitHub Streak">
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipulkatwal&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</p>
-
-<p align="center">
-  <em>Fun Fact: I'm so dedicated to coding, even my dreams have semicolons at the end! 😴;</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipulkatwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <em>PS: My code is like my cricket game - full of unexpected twists and occasional victories! 🏏💻</em>
 </p>
