@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200">
   <h1>Meow there! 😺 I'm Vipul Katwal</h1>
-  <h3>Purr-ogrammer Extraordinaire | MERN Stack Ap-paw-entice</h3>
+  <h3>Full-Stack Purr-ogrammer | MERN & Beyond</h3>
 </div>
 
 <p align="center">
@@ -12,23 +12,56 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+stack+learner;Cricket+enthusiast;Chess+strategist;Mountain+lover+from+Himachal+Pradesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Enthusiast;Python+Charmer;C%2B%2B+Wrangler;SQL+Whisperer;Next.js+Navigator" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 😺 About Me
 
-- 🏔️ Hailing from Himachal Pradesh, where the air is fresh and the bugs are rare!
-- 🏏 Cricket player extraordinaire (I can hit sixes... in my dreams)
-- ♟️ Chess master (My pawns always reach the other side... of my desk)
-- 💻 Diving into MERN stack (MongoDB ate my data, Express left me confused, React-ion time is slow, and Node-body understands me)
+- 🏔️ Coding from the peaks of Himachal Pradesh, where my bugs are as rare as snow in summer!
+- 🏏 Cricket all-rounder (I spin the ball and my code with equal finesse)
+- ♟️ Chess strategist (My coding moves are as unpredictable as my knight's tour)
+- 💻 Full-stack developer (I stack my skills higher than the Himalayas)
+- 🐍 Python tamer, turning spaghetti code into a gourmet meal
+- 🚀 Launching projects faster than a cricket ball off my bat
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="Python">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="JavaScript">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" title="React">
+  <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="60" title="Node.js">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" title="VSCode">
+  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="60" title="HTML5">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="CSS3">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+### 💻 Code Sampler
+
+```python
+class VipulKatwal:
+    def __init__(self):
+        self.name = "Vipul Katwal"
+        self.role = "Full-Stack Developer"
+        self.language_spoken = ["Hindi", "English", "Python", "JavaScript"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Hope you find some of my work interesting.")
+
+me = VipulKatwal()
+me.say_hi()
+```
 
 ### 📊 GitHub Stats
 
@@ -43,7 +76,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vipulkatwal&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
 
-### 😹 Programming Humor
+### 😹 Developer Humor
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -55,9 +88,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers!</b> Feel free to reach out for a code chat or a virtual chai ☕️</em>
 </div>
 
 <p align="center">
-  <em>PS: My code is like my cricket game - full of unexpected twists and occasional victories! 🏏💻</em>
+  <em>PS: My code is like a well-played cricket innings - structured, efficient, and occasionally hits a six! 🏏💻</em>
 </p>
