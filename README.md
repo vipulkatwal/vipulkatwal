@@ -16,11 +16,13 @@
 
 ### 😺 About Me
 
-- 🏔️ Born and raised in the beautiful Himachal Pradesh, where the code is as fresh as the mountain air!
-- 🏎️ F1 fanatic (I debug code faster than Red Bull's pit stops)
-- 🥊 MMA enthusiast (My code packs a punch and never taps out)
-- 💻 Full-stack developer (I stack my skills higher than the Himalayas)
-- 🚀 Launching projects faster than an F1 car off the starting grid
+😺 About Me
+
+- 🏔️ Born and raised in the beautiful Himachal Pradesh, where the mountains inspire my coding journey
+- 🏎️ F1 enthusiast (Always striving for that perfect lap in my code)
+- 💻 Aspiring full-stack developer, currently honing my skills in React and Node.js
+- 🚀 Excited to launch new projects and grow as a developer
+- 🌟 Check out my pinned repositories to see my latest work.
 
 ### 🚀 Tech Stack
 
