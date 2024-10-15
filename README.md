@@ -29,7 +29,7 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" title="React">
   <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="60" title="Node.js">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" title="VSCode">
-  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="60" title="HTML5">
+ <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="HTML5">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="CSS3">
 </p>
 
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Pythob-00599C?style=flat-square&logo=c%2B%2B&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c%2B%2B&logoColor=yellow" alt="Python">
 </p>
 
 
