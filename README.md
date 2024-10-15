@@ -50,11 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFD93D&fire=FF6B6B&currStreakNum=FFD93D&sideNums=FF6B6B&currStreakLabel=FFD93D&sideLabels=FF6B6B&dates=c9d1d9" />
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipulkatwal&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
 
 ### 😹 Developer Humor
 
