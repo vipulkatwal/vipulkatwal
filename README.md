@@ -63,10 +63,6 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-<div align="center">
-  <h4>Visitor Count</h4>
-  <img src="https://profile-counter.glitch.me/vipulkatwal/count.svg" />
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers!</b> Feel free to reach out for a code chat, F1 discussion, or MMA analysis! 🏎️🥊</em>
