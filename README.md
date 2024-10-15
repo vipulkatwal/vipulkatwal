@@ -16,10 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🏔️ Born and raised in the beautiful Himachal Pradesh, where the mountains inspire my coding journey
-- 🏎️ F1 enthusiast (Always striving for that perfect lap in my code)
-- 💻 Aspiring full-stack developer, currently honing my skills in React and Node.js
-- 🚀 Excited to launch new projects and grow as a developer
+- 🏔️ Himachal Pradesh native, where the Himalayan air fuels my coding passion.
+- ⚛️ Currently mastering the MERN stack (MongoDB, Express, React, Node.js).
+- 💻 Diving deep into the world of full-stack development.
+- 🚀 Excited to launch new projects and grow as a developer.
+- 📚 Lifelong learner, always exploring new technologies and best practices.
 - 🌟 Check out my pinned repositories to see my latest work.
 
 ### 🚀 Tech Stack
