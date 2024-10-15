@@ -14,9 +14,7 @@
 
 ---
 
-### 😺 About Me
-
-😺 About Me
+### 🧑‍💻 About Me
 
 - 🏔️ Born and raised in the beautiful Himachal Pradesh, where the mountains inspire my coding journey
 - 🏎️ F1 enthusiast (Always striving for that perfect lap in my code)
