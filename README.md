@@ -69,6 +69,3 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers!</b> Feel free to reach out for a code chat, F1 discussion, or MMA analysis! 🏎️🥊</em>
 </div>
 
-<p align="center">
-  <em>PS: My code is like an F1 car - finely tuned, blazingly fast, and occasionally needs a pit stop for debugging! 🏎️💨</em>
-</p>
