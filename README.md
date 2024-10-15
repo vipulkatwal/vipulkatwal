@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="150">
   <h1>Howdy! 👋 I'm Vipul Katwal</h1>
   <h3>Full-Stack Purr-ogrammer | MERN & Beyond</h3>
 </div>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c%2B%2B&logoColor=yellow" alt="Python">
+ <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
 
