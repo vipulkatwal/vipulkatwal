@@ -16,7 +16,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🏔️ Himachal Pradesh native, where the Himalayan air fuels my coding passion.
 - ⚛️ Currently mastering the MERN stack (MongoDB, Express, React, Node.js).
 - 💻 Diving deep into the world of full-stack development.
 - 🚀 Excited to launch new projects and grow as a developer.
