@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200">
-  <h1>Meow there! 😺 I'm Vipul Katwal</h1>
+  <h1>Howdy! 👋 I'm Vipul Katwal</h1>
   <h3>Full-Stack Purr-ogrammer | MERN & Beyond</h3>
 </div>
 
@@ -11,9 +11,6 @@
   <a href="mailto:vipulkatwal17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Enthusiast;Python+Charmer;C%2B%2B+Wrangler;SQL+Whisperer;Next.js+Navigator" alt="Typing SVG" />
-</div>
 
 ---
 
@@ -23,13 +20,11 @@
 - 🏎️ F1 fanatic (I debug code faster than Red Bull's pit stops)
 - 🥊 MMA enthusiast (My code packs a punch and never taps out)
 - 💻 Full-stack developer (I stack my skills higher than the Himalayas)
-- 🐍 Python tamer, turning spaghetti code into a gourmet meal
 - 🚀 Launching projects faster than an F1 car off the starting grid
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" title="Python">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="JavaScript">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" title="React">
   <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="60" title="Node.js">
@@ -39,7 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
@@ -50,25 +44,11 @@
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Pythob-00599C?style=flat-square&logo=c%2B%2B&logoColor=blue" alt="Python">
 </p>
 
-### 💻 Code Sampler
 
-```python
-class VipulKatwal:
-    def __init__(self):
-        self.name = "Vipul Katwal"
-        self.role = "Full-Stack Developer"
-        self.origin = "Himachal Pradesh"
-        self.language_spoken = ["Hindi", "English", "Python", "JavaScript"]
-        self.interests = ["F1", "MMA", "Coding"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Hope you find some of my work interesting.")
-
-me = VipulKatwal()
-me.say_hi()
-```
 
 ### 📊 GitHub Stats
 
