@@ -11,7 +11,6 @@
   <a href="https://instagram.com/vipulkatwal"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-
 ---
 
 ### 🧑‍💻 About Me
@@ -29,7 +28,7 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" title="React">
   <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="60" title="Node.js">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" title="VSCode">
- <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="HTML5">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="HTML5">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="CSS3">
 </p>
 
@@ -45,16 +44,35 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
-
-
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9&bg_color=0d1117" alt="Vipul Katwal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=dark&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFD93D&fire=FF6B6B&currStreakNum=FFD93D&sideNums=FF6B6B&currStreakLabel=FFD93D&sideLabels=FF6B6B&dates=c9d1d9" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=vipulkatwal&show_icons=true" alt="Vipul Katwal's GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkatwal" alt="Vipul Katwal's GitHub Streak" />
+  </picture>
 </div>
 
 ### 😹 Developer Humor
@@ -63,8 +81,6 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers!</b> Feel free to reach out for a code chat, F1 discussion, or MMA analysis! 🏎️🥊</em>
 </div>
-
