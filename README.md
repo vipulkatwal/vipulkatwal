@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vipulkatwal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:vipulkatwal17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://vipulkatwal.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white"/></a>
+  <a href="https://vipulkatwal.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I0ZGNkI2QiIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNEVDREM0Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojNDVCN0QxIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTIxIDRIM2MtMS4xIDAtMiAuOS0yIDJ2MTJjMCAxLjEuOSAyIDIgMmgxOGMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yeiIgZmlsbD0idXJsKCNncmFkaWVudCkiLz48cGF0aCBkPSJNMyA4bDkgNiA5LTZ2MTBIM1Y4eiIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4zIi8+PHBhdGggZD0iTTQgN2gxNmwtOCA2LjFMNCA3eiIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC41Ii8+PGNpcmNsZSBjeD0iNiIgY3k9IjciIHI9IjEiIGZpbGw9IiNGRkQ5M0QiLz48Y2lyY2xlIGN4PSI5IiBjeT0iNyIgcj0iMSIgZmlsbD0iI0ZGNkI2QiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iMSIgZmlsbD0iIzRFQ0RDNCIvPjwvc3ZnPg==&logoColor=white"/></a>
 </p>
 
 ---
